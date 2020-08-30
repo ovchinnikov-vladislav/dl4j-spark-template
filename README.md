@@ -1,5 +1,6 @@
-DL4J Spark (Mnist Example)
+### DL4J Spark (Mnist Example)
 
-Сборка:
-
-```./mvnw package```
+Сборка проекта:
+~~~~
+./mvnw package
+~~~~
